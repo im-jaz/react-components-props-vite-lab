@@ -4,7 +4,7 @@
 
 function Article({
   title,
-  date = "December 15, 2020",
+  date = "January 1, 1970",
   preview
 })  {
   return (
